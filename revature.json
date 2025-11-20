@@ -2,7 +2,7 @@
   "type": "java",
   "testFiles": [
     {
-      "path": "GreetingTest.java",
+      "path": "src/test/java/GreetingTest.java",
       "testCases": [
         {
           "methodName": "helloTest",
